@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "But i still love you more! 🧸",  // Shows when they go past 5000%
+        extreme: "I still love you more! 🧸",  // Shows when they go past 5000%
         high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
         normal: "Hehehehehe"                           // Shows when they go past 100%
     },
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Thanks for always choosing me, baby girl 💓",
-        message: "I won't make you regret it! 💋",
+        message: "I LOVE YOU! 💋",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
